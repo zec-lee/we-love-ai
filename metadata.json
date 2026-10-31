@@ -1,0 +1,6 @@
+{
+  "name": "SolWeig-URock Microclimate Studio",
+  "description": "Two-speed urban microclimate design and thermal comfort assessment platform combining instant 3D shadow previews with modelled SOLWEIG radiant, URock wind, PET, and UTCI spatial simulations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
